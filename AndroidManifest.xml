@@ -82,7 +82,7 @@
                 <category android:name="android.intent.category.INFO"/>
             </intent-filter>
             <intent-filter>
-                <action android:name="com.android.settings.action.IA_SETTINGS"/>
+                <action android:name="org.carbonrom.settings.device.ACTIVE_EDGE" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
             <intent-filter>
